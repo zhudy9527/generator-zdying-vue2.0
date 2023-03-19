@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  },
+  "name": "generator-zdying-vue2.0",
+  "version": "1.0.0",
+  "description": "vue2.0 template",
+  "main": "index.js",
+  "repository": "https://github.com/zhudy9527/generator-zhudying-vue2.0.git",
+  "author": "zhudying",
+  "license": "MIT"
+}
